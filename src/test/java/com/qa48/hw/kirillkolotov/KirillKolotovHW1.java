@@ -5,7 +5,7 @@ import org.openqa.selenium.chrome.ChromeDriver;
 import org.testng.annotations.BeforeMethod;
 import org.testng.annotations.Test;
 
-public class HW_1_KirillKolotov {
+public class KirillKolotovHW1 {
     WebDriver driver;
 
     @BeforeMethod
