@@ -5,7 +5,7 @@ import org.openqa.selenium.chrome.ChromeDriver;
 import org.testng.annotations.BeforeMethod;
 import org.testng.annotations.Test;
 
-public class HW1Test {
+public class KirillKolotov_HW_1 {
     WebDriver driver;
 
     @BeforeMethod
@@ -18,5 +18,5 @@ public class HW1Test {
     public void openURL(){
         System.out.println("URL Opened");
     }
-    // проверка push 7
+    // проверка push 9
 }
