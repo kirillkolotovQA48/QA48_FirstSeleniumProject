@@ -18,5 +18,5 @@ public class HW_1_KirillKolotov {
     public void openURL(){
         System.out.println("URL Opened");
     }
-    // проверка push
+    // проверка push 3
 }
