@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 .gradle
 **/build/
 !**/src/**/build/
@@ -19,3 +20,29 @@ gradle-app.setting
 .project
 # JDT-specific (Eclipse Java Development Tools)
 .classpath
+=======
+..gradle
+ build/
+ !gradle/wrapper/gradle-wrapper.jar
+ !**/src/main/**/build/
+ !**/src/test/**/build/
+
+ ### IntelliJ IDEA ###
+ *.idea
+ *.iws
+ *.iml
+ *.ipr
+ out/
+
+ /gradle/
+ settings.gradle
+ \gradlew
+ gradlew/
+ gradlew.bat
+
+ *.log
+ *.png
+
+ ### Mac OS ###
+ .DS_Store
+>>>>>>> 9c19952 (Initial commit)
