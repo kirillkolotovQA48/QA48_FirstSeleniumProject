@@ -52,8 +52,8 @@ public class KirillKolotov_HW_3 {
     }
 
     @Test
-    public void findElementByXpath(){
-                            //xpath
+    public void findElementByXpath() {
+        //xpath
         //tagName
         driver.findElement(By.xpath("//li"));
         //id
