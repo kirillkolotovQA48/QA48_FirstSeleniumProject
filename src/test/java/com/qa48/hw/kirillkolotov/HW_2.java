@@ -11,7 +11,7 @@ import org.testng.annotations.Test;
 import java.time.Duration;
 import java.util.List;
 
-public class KirillKolotov_HW_2 {
+public class HW_2 {
     WebDriver driver;
 
     @BeforeMethod

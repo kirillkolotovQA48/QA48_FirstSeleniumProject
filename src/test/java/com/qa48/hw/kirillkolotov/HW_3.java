@@ -2,16 +2,14 @@ package com.qa48.hw.kirillkolotov;
 
 import org.openqa.selenium.By;
 import org.openqa.selenium.WebDriver;
-import org.openqa.selenium.WebElement;
 import org.openqa.selenium.chrome.ChromeDriver;
 import org.testng.annotations.AfterMethod;
 import org.testng.annotations.BeforeMethod;
 import org.testng.annotations.Test;
 
 import java.time.Duration;
-import java.util.List;
 
-public class KirillKolotov_HW_3 {
+public class HW_3 {
     WebDriver driver;
 
     @BeforeMethod
